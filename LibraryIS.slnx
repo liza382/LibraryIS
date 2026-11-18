@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LibraryIS.App/LibraryIS.App.csproj" />
+  <Project Path="LibraryIS.Core/LibraryIS.Core.csproj" />
+  <Project Path="LibraryIS.Tests/LibraryIS.Tests.csproj" />
+</Solution>
